@@ -71,3 +71,21 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Description
+
+- create new project `nest new project-name`
+- creating module for app
+  - `nest generate module module-name`
+- creating controller for app
+
+  - `nest generate controller messages/messages --flat`
+
+- setting upvalidation pipeline on this project with `ValidationPipe`
+
+  - when you use this, you will also install this two library
+
+    ```
+    npm install class-validator
+    npm install class-transformer
+    ```
