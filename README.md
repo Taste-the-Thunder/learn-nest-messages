@@ -89,3 +89,6 @@ Nest is [MIT licensed](LICENSE).
     npm install class-validator
     npm install class-transformer
     ```
+
+- ##DTO
+  - Data transfer Object we can apply validation, formate of data ...
