@@ -90,5 +90,15 @@ Nest is [MIT licensed](LICENSE).
     npm install class-transformer
     ```
 
-- ##DTO
+- ### DTO
+
   - Data transfer Object we can apply validation, formate of data ...
+
+- ### Services
+
+  - use to apple some kind of business logic
+  - one or more repositories to find or store data
+
+- ### Repositories
+  - put storage related logic or add data into file ...
+  - TypeORM
